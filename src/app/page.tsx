@@ -7,7 +7,8 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <main className='bg-red-500'>
-      <Paragraph> Eat my bologne</Paragraph>
+      <Paragraph> </Paragraph>
+    
     </main>
   )
 }
